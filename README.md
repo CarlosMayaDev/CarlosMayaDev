@@ -4,7 +4,9 @@ JavaScript | React.js | Redux | Node.js | Express | Sequelize | PostgreSQL | C++
 
 Hello there! I'm Carlos Maya, a passionate Full Stack Developer. 💻 Recently, I completed my studies at the prestigious Argentine Bootcamp, HENRY, and I'm excited to dive into the world of work and coding!
 
-[Contact Me](mailto:carlosdavidmaya1@gmail.com) | English Proficiency: B2 Certified with IELTS.
+[Contact Me](mailto:carlosdavidmaya1@gmail.com) 
+## English Proficiency: 
+C1 Certified with EF SET. [Check English Results HERE](https://www.efset.org/cert/jBriHX) 🤓 🎓
 
 Bogotá, Cundinamarca, Colombia
 📞 (+57) 302 452 1581
