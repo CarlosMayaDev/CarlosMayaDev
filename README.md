@@ -6,7 +6,7 @@ Hello there! I'm Carlos Maya, a passionate Full Stack Developer. 💻 Recently, 
 
 [Contact Me](mailto:carlosdavidmaya1@gmail.com) 
 ## English Proficiency: 
-C1 Certified with EF SET. [Check English Results HERE](https://www.efset.org/cert/jBriHX) 🤓 🎓
+C1 (Advanced) Certified with EF SET. [Check English Results HERE](https://www.efset.org/cert/jBriHX) 🤓 🎓
 
 Bogotá, Cundinamarca, Colombia
 📞 (+57) 302 452 1581
