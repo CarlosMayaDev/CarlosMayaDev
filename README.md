@@ -4,21 +4,20 @@ JavaScript | React.js | Redux | Node.js | Express | Sequelize | PostgreSQL | C++
 
 Hello there! I'm Carlos Maya, a passionate Full Stack Developer. 💻 Recently, I completed my studies at the prestigious Argentine Bootcamp, HENRY, and I'm excited to dive into the world of work and coding!
 
-[Contact Me](mailto:carlosdavidmaya1@gmail.com) 
 ## English Proficiency: 
 C1 (Advanced) Certified with EF SET. [Check English Results HERE](https://www.efset.org/cert/jBriHX) 🤓 🎓
-
-Bogotá, Cundinamarca, Colombia
-📞 (+57) 302 452 1581
-📧 [carlosdavidmaya1@gmail.com](mailto:carlosdavidmaya1@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/carlosmayadev)
-🐱 [GitHub](https://github.com/carlosmayadev)
 
 ## Additional Experience
 
 I'm a Software Programming Technician graduate from SENA (National Learning Service, Colombia). I have experience in PHP, MySQL, SQLServer, HTML, C++, and JavaScript. 🎶 🎹 Also, I have a musical background in composition and piano performance, with advanced studies completed at the Music Conservatory of the National University of Colombia. I LOVE composing music in the neoclassical genre, if you are interested visit this page and LISTEN! [LISTEN TO MY MUSIC HERE](https://linktr.ee/CarlosMaya)
 🎹
 
+Bogotá, Cundinamarca, Colombia
+📞 (+57) 302 452 1581
+📧 [carlosdavidmaya1@gmail.com](mailto:carlosdavidmaya1@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/carlosmayadev)
+🐱 [GitHub](https://github.com/carlosmayadev)
+ 
 ## Projects
 
 #### E-commerce DLCA Technology
