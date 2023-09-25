@@ -16,7 +16,7 @@ Bogotá, Cundinamarca, Colombia
 
 ## Additional Experience
 
-I'm a Software Programming Technician graduate from SENA (National Learning Service, Colombia). I have experience in PHP, MySQL, SQLServer, HTML, C++, and JavaScript. 🎶 🎹 Also, I have a musical background in composition and piano performance, with advanced studies completed at the Music Conservatory of the National University of Colombia.
+I'm a Software Programming Technician graduate from SENA (National Learning Service, Colombia). I have experience in PHP, MySQL, SQLServer, HTML, C++, and JavaScript. 🎶 🎹 Also, I have a musical background in composition and piano performance, with advanced studies completed at the Music Conservatory of the National University of Colombia. I LOVE composing music in the neoclassical genre, if you are interested visit this page and LISTEN! [LISTEN TO MY MUSIC HERE](https://linktr.ee/CarlosMaya)
 🎹
 
 ## Projects
